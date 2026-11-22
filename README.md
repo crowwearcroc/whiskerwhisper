@@ -1,11 +1,11 @@
-# whiskerwhisper.works
+# whiskerwhisperer.works
 
 Website for Whisker Whisper, cat behavior consulting by Maddy Mejia.
 Hosted free on GitHub Pages. Domain registered at name.com.
 
 ## Files
 - `index.html` – the whole site (text, styles and the blinking cat)
-- `CNAME` – tells GitHub Pages to use whiskerwhisper.works (don't delete it)
+- `CNAME` – tells GitHub Pages to use whiskerwhisperer.works (don't delete it)
 - `favicon.svg` – the little cat icon in the browser tab
 - `404.html` – the "page not found" page
 
